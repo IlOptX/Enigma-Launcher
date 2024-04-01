@@ -1,7 +1,7 @@
 {
     "name": "Enigma-Launcher",
     "preductname": "Enigma Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Enigma",
     "main": "src/app.js",
     "author": {
